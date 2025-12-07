@@ -37,6 +37,16 @@ This workflow relies on several bioinformatics tools. The recommended way to ins
    # or
    conda activate organelles
 
+
+
+
+---------------------------------
+Scripts Overview
+---------------------------------
+
+1. script1.sh
+   - Currently optional or placeholder
+   - Can be used for project initialization or test data creation (customize if needed)
 ---------------------------------
 Project Structure
 ---------------------------------
@@ -55,16 +65,6 @@ Project_ibbc_<YourName>/
 ├── logs/                # Log files for each script
 └── scripts/             # Scripts: script1.sh, script2.sh, script3.sh 
 ```
-
-
----------------------------------
-Scripts Overview
----------------------------------
-
-1. script1.sh
-   - Currently optional or placeholder
-   - Can be used for project initialization or test data creation (customize if needed)
-
 2. script2.sh – Main Interactive Pipeline
    Usage:
      bash script2.sh <ProjectName> <mode>
