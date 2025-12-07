@@ -47,9 +47,9 @@ Scripts Overview
 1. script1.sh
    - Currently optional or placeholder
    - Can be used for project initialization or test data creation (customize if needed)
----------------------------------
-Project Structure
----------------------------------
+
+Structure
+
 ```
 Project_ibbc_<YourName>/
 |
