@@ -55,6 +55,7 @@ Project_ibbc_<YourName>/
 ├── logs/                # Log files for each script
 └── scripts/             # Scripts: script1.sh, script2.sh, script3.sh
 
+
 ---------------------------------
 Scripts Overview
 ---------------------------------
@@ -113,6 +114,4 @@ Tips and Notes
 ---------------------------------
 Contact / Support
 ---------------------------------
-- Developed by [Your Name]
-- Last updated: [Date]
-- Contact: [your email]
+- Developed by Tiago Costa Nº56483
