@@ -40,7 +40,7 @@ This workflow relies on several bioinformatics tools. The recommended way to ins
 ---------------------------------
 Project Structure
 ---------------------------------
-'''
+```
 Project_ibbc_<YourName>/
 |
 ├── 1_raw_data/          # Raw FASTQ files (.fastq.gz)
@@ -54,7 +54,7 @@ Project_ibbc_<YourName>/
 │   └── multiqc/         # MultiQC aggregated reports
 ├── logs/                # Log files for each script
 └── scripts/             # Scripts: script1.sh, script2.sh, script3.sh 
-'''
+```
 
 
 ---------------------------------
